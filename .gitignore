@@ -1,0 +1,23 @@
+# Vivado 缓存、编译产物
+*.xpr
+*.runs
+*.cache
+*.sim
+*.hw
+*.bit
+*.bin
+*.ltx
+xsim.dir/
+.hbs/
+.Xil/
+webtalk*
+vivado.jou
+vivado.log
+vivado_pid*.str
+*.log
+*.rpt
+*.wdb
+
+# 系统文件
+.DS_Store
+Thumbs.db

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="decoder_3_8_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="decoder_3_8_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0fs"></ZoomStartTime>
+      <ZoomEndTime time="160000001fs"></ZoomEndTime>
+      <Cursor1Time time="74041000fs"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="175"></NameColumnWidth>
+      <ValueColumnWidth column_width="144"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="9" />
+   <wvobject fp_name="vbus60" type="vbus">
+      <obj_property name="label">A</obj_property>
+      <obj_property name="DisplayName">label</obj_property>
+      <wvobject fp_name="/decoder_3_8_tb/A2" type="logic">
+         <obj_property name="ElementShortName">A2</obj_property>
+         <obj_property name="ObjectShortName">A2</obj_property>
+      </wvobject>
+      <wvobject fp_name="/decoder_3_8_tb/A1" type="logic">
+         <obj_property name="ElementShortName">A1</obj_property>
+         <obj_property name="ObjectShortName">A1</obj_property>
+      </wvobject>
+      <wvobject fp_name="/decoder_3_8_tb/A0" type="logic">
+         <obj_property name="ElementShortName">A0</obj_property>
+         <obj_property name="ObjectShortName">A0</obj_property>
+      </wvobject>
+   </wvobject>
+   <wvobject fp_name="/decoder_3_8_tb/Y0" type="logic">
+      <obj_property name="ElementShortName">Y0</obj_property>
+      <obj_property name="ObjectShortName">Y0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/decoder_3_8_tb/Y1" type="logic">
+      <obj_property name="ElementShortName">Y1</obj_property>
+      <obj_property name="ObjectShortName">Y1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/decoder_3_8_tb/Y2" type="logic">
+      <obj_property name="ElementShortName">Y2</obj_property>
+      <obj_property name="ObjectShortName">Y2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/decoder_3_8_tb/Y3" type="logic">
+      <obj_property name="ElementShortName">Y3</obj_property>
+      <obj_property name="ObjectShortName">Y3</obj_property>
+   </wvobject>
+   <wvobject fp_name="/decoder_3_8_tb/Y4" type="logic">
+      <obj_property name="ElementShortName">Y4</obj_property>
+      <obj_property name="ObjectShortName">Y4</obj_property>
+   </wvobject>
+   <wvobject fp_name="/decoder_3_8_tb/Y5" type="logic">
+      <obj_property name="ElementShortName">Y5</obj_property>
+      <obj_property name="ObjectShortName">Y5</obj_property>
+   </wvobject>
+   <wvobject fp_name="/decoder_3_8_tb/Y6" type="logic">
+      <obj_property name="ElementShortName">Y6</obj_property>
+      <obj_property name="ObjectShortName">Y6</obj_property>
+   </wvobject>
+   <wvobject fp_name="/decoder_3_8_tb/Y7" type="logic">
+      <obj_property name="ElementShortName">Y7</obj_property>
+      <obj_property name="ObjectShortName">Y7</obj_property>
+   </wvobject>
+</wave_config>
