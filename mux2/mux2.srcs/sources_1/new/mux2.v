@@ -9,4 +9,4 @@ module mux2(
     
     assign out = (sel == 0) ? a : b;
 
-endmodule
+endmodule 
