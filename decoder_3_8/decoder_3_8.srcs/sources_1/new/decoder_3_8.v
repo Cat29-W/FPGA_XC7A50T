@@ -12,7 +12,7 @@ module decoder_3_8(
     //Y7
 );
     input A0, A1, A2;
-    output reg Y0, Y1, Y2, Y3; //Y4, Y5, Y6, Y7;
+    output reg Y0, Y1, Y2, Y3; //Y4,Y5,Y6,Y7;
     
 always@(*)
     case({A2,A1,A0})
